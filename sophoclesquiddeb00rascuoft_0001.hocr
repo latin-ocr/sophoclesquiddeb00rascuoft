@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sophoclesquiddeb00rascuoft_0001.png"; bbox 0 0 2158 3646; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 647 974 1114 1033">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 647 974 1114 1033">
+     <span class='ocr_line' id='line_1_1' title="bbox 647 974 1114 1033; baseline 0.011 -15"><span class='ocrx_word' id='word_1_1' title='bbox 647 974 839 1033; x_wconf 79' lang='lat' dir='ltr'><strong>Rasch,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 881 978 1114 1023; x_wconf 80' lang='lat' dir='ltr'>Ioannes</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 646 1043 1740 1224">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 646 1043 1740 1224">
+     <span class='ocr_line' id='line_1_2' title="bbox 747 1043 1740 1103; baseline 0.015 -17"><span class='ocrx_word' id='word_1_3' title='bbox 747 1043 1046 1100; x_wconf 69' lang='lat' dir='ltr'>Sophocles</span> <span class='ocrx_word' id='word_1_4' title='bbox 1083 1049 1214 1103; x_wconf 63' lang='lat' dir='ltr'>qussd</span> <span class='ocrx_word' id='word_1_5' title='bbox 1251 1050 1449 1096; x_wconf 70' lang='lat' dir='ltr'>debeat</span> <span class='ocrx_word' id='word_1_6' title='bbox 1482 1054 1740 1100; x_wconf 68' lang='lat' dir='ltr'>Herodot-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 647 1109 1647 1166; baseline 0.013 -13"><span class='ocrx_word' id='word_1_7' title='bbox 647 1109 711 1154; x_wconf 72' lang='lat' dir='ltr'>1n</span> <span class='ocrx_word' id='word_1_8' title='bbox 748 1110 910 1156; x_wconf 82' lang='lat' dir='ltr'>rebus</span> <span class='ocrx_word' id='word_1_9' title='bbox 949 1114 1013 1157; x_wconf 84' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_10' title='bbox 1049 1114 1278 1160; x_wconf 72' lang='lat' dir='ltr'>fabulas</span> <span class='ocrx_word' id='word_1_11' title='bbox 1318 1123 1647 1166; x_wconf 79' lang='lat' dir='ltr'>exornandas</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 646 1177 943 1224; baseline 0.01 -4"><span class='ocrx_word' id='word_1_12' title='bbox 646 1177 943 1224; x_wconf 73' lang='lat' dir='ltr'><strong>adh1b1t1s</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 538 288 1754 1710">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 538 288 1754 1710">
+     <span class='ocr_line' id='line_1_5' title="bbox 538 288 1754 1710; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 538 288 1754 1710; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 26 3006 356 3420">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 26 3006 356 3420">
+     <span class='ocr_line' id='line_1_6' title="bbox 26 3006 356 3420; baseline 0 226"><span class='ocrx_word' id='word_1_14' title='bbox 26 3006 356 3420; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
